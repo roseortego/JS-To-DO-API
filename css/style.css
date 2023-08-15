@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(238, 212, 233);
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+}
+.form {
+    border: 1px 1px solid white;
+    box-shadow: -2px 5px 5px 5px rgb(215, 171, 210);
+    background-color:rgba(0, 0, 0, 0.35);
+    opacity: inherit;
+    width:  600px;
+    height: 500px;
+    background-position: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;   
+    transform: translate(-50%, -50%);
+}
+h1 {
+    text-align: center;
+}
+label {
+    margin-left: 50px;
+}
